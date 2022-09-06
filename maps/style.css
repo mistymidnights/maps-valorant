@@ -74,11 +74,11 @@ header {
 
 @media (max-width: 564px) {
     .image-container{
-        width: 350px;
+        width: 270px;
     }
     
     .map-container {
-        width: 413px;
+        width: 297px;
         flex-direction: column-reverse;
         height: 379px;
         font-family: 'Quicksand', sans-serif;
